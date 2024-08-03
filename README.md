@@ -16,9 +16,6 @@
 * ***Pop-up Notifications:***
    * Implement pop-up notifications for actions like successful login, item added to the cart, etc.
   * Non-intrusive notifications for a smooth user experience.
-* ***Responsive Slideshow:***
-    * Feature a responsive slideshow on the homepage to showcase featured products, promotions, and announcements.
-  * Image carousel with smooth transitions and a user-friendly interface.
  
 ## Home
 ![adidasHome](https://github.com/user-attachments/assets/1fb97ef2-61c9-4e69-814e-78a4cae2bb22)
